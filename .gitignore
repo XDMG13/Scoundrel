@@ -1,3 +1,4 @@
+.gitignore
 compile.bat
 /.vscode
 /output
